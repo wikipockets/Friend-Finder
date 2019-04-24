@@ -1,0 +1,29 @@
+body {
+   font-family: 'Source Sans Pro', sans-serif;
+}
+
+.light {
+   font-weight: 300;
+}
+
+input,
+select {
+   margin-bottom: 1.5em;
+}
+
+h1,
+h2,
+h3 {
+   color: orange;
+   font-weight: bold;
+}
+
+.question-number {
+   color: #ffffff;
+   background: orange;
+   border-bottom: 3px solid #ffffff;
+}
+
+span.required {
+   color: orange;
+}
